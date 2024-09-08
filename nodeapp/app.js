@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const port = 3000
 app.get('/', (req, res) => {
-    res.send('Hello World from YAT224 DEPI!')
+    res.send('Hello World from YAT22 DEPI!')
   })
   
   app.listen(port, () => {
